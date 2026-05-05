@@ -85,16 +85,20 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [ThusSpakeZarathustra00-41_librivox](https://github.com/EinarDesu/downloader/tree/main/downloads/ThusSpakeZarathustra00-41_librivox)
 
-2. [archive_20260504_220102](https://github.com/EinarDesu/downloader/tree/main/downloads/archive_20260504_220102)
+2. [ThusSpakeZarathustra42-82_librivox](https://github.com/EinarDesu/downloader/tree/main/downloads/ThusSpakeZarathustra42-82_librivox)
 
-3. [f33fea29-41bf-4661-a512-9c6e6f7d7c04](https://github.com/EinarDesu/downloader/tree/main/downloads/f33fea29-41bf-4661-a512-9c6e6f7d7c04)
+3. [archive_20260504_220102](https://github.com/EinarDesu/downloader/tree/main/downloads/archive_20260504_220102)
 
-4. [uR9kUTRB](https://github.com/EinarDesu/downloader/tree/main/downloads/uR9kUTRB)
+4. [f33fea29-41bf-4661-a512-9c6e6f7d7c04](https://github.com/EinarDesu/downloader/tree/main/downloads/f33fea29-41bf-4661-a512-9c6e6f7d7c04)
 
-5. [uR9kUTRB_sun_24257](https://github.com/EinarDesu/downloader/tree/main/downloads/uR9kUTRB_sun_24257)
+5. [uR9kUTRB](https://github.com/EinarDesu/downloader/tree/main/downloads/uR9kUTRB)
+
+6. [uR9kUTRB_sun_24257](https://github.com/EinarDesu/downloader/tree/main/downloads/uR9kUTRB_sun_24257)
 
 ---
