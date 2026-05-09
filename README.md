@@ -105,36 +105,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [2MUL2](https://github.com/EinarDesu/downloader/tree/main/downloads/2MUL2)
-
-2. [2MUL2_moon_19691](https://github.com/EinarDesu/downloader/tree/main/downloads/2MUL2_moon_19691)
-
-3. [2b98218d-6ac9-4435-b51a-21ac7fdc69f2](https://github.com/EinarDesu/downloader/tree/main/downloads/2b98218d-6ac9-4435-b51a-21ac7fdc69f2)
-
-4. [2b98218d-6ac9-4435-b51a-21ac7fdc69f2_star_5163](https://github.com/EinarDesu/downloader/tree/main/downloads/2b98218d-6ac9-4435-b51a-21ac7fdc69f2_star_5163)
-
-5. [2d5c4b87-c526-4864-9d8f-2c78e095b9a4](https://github.com/EinarDesu/downloader/tree/main/downloads/2d5c4b87-c526-4864-9d8f-2c78e095b9a4)
-
-6. [6cd8b925-5ec3-4f11-ad61-0364a03b66d0](https://github.com/EinarDesu/downloader/tree/main/downloads/6cd8b925-5ec3-4f11-ad61-0364a03b66d0)
-
-7. [972580d2-4225-490d-b4e3-91974f85f292](https://github.com/EinarDesu/downloader/tree/main/downloads/972580d2-4225-490d-b4e3-91974f85f292)
-
-8. [ThusSpakeZarathustra00-41_librivox](https://github.com/EinarDesu/downloader/tree/main/downloads/ThusSpakeZarathustra00-41_librivox)
-
-9. [ThusSpakeZarathustra42-82_librivox](https://github.com/EinarDesu/downloader/tree/main/downloads/ThusSpakeZarathustra42-82_librivox)
-
-10. [archive_20260504_220102](https://github.com/EinarDesu/downloader/tree/main/downloads/archive_20260504_220102)
-
-11. [bc6cea1b-6b6d-400c-a42f-667359a55328](https://github.com/EinarDesu/downloader/tree/main/downloads/bc6cea1b-6b6d-400c-a42f-667359a55328)
-
-12. [c2689d76-5cc4-4647-9b99-11181559de6c](https://github.com/EinarDesu/downloader/tree/main/downloads/c2689d76-5cc4-4647-9b99-11181559de6c)
-
-13. [f33fea29-41bf-4661-a512-9c6e6f7d7c04](https://github.com/EinarDesu/downloader/tree/main/downloads/f33fea29-41bf-4661-a512-9c6e6f7d7c04)
-
-14. [uR9kUTRB](https://github.com/EinarDesu/downloader/tree/main/downloads/uR9kUTRB)
-
-15. [uR9kUTRB_sun_24257](https://github.com/EinarDesu/downloader/tree/main/downloads/uR9kUTRB_sun_24257)
+1. [aHR0cHM6Ly9hcHAua2l0LmNvbS9mb3Jtcy9jb25maXJtP2tleT03NTBkYTQ3YzBhYTcyYzNhMjRjMDRlZTY3MDg5ZmZlM2EyYTUxODQwJnNpZD0xMTI1ODA5OTgxOQ==](https://github.com/NotPlami/downloader/tree/main/downloads/aHR0cHM6Ly9hcHAua2l0LmNvbS9mb3Jtcy9jb25maXJtP2tleT03NTBkYTQ3YzBhYTcyYzNhMjRjMDRlZTY3MDg5ZmZlM2EyYTUxODQwJnNpZD0xMTI1ODA5OTgxOQ==)
 
 ---
