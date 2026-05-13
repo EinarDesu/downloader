@@ -115,6 +115,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [17bec4e6-7653-41a3-ad2d-c2f0132a9758](https://github.com/NotPlami/downloader/tree/main/downloads/17bec4e6-7653-41a3-ad2d-c2f0132a9758)
@@ -123,10 +125,12 @@ a
 
 3. [Godot_v4.6.2-stable_macos.universal](https://github.com/NotPlami/downloader/tree/main/downloads/Godot_v4.6.2-stable_macos.universal)
 
-4. [_cloud_9156](https://github.com/NotPlami/downloader/tree/main/downloads/_cloud_9156)
+4. [The+Legend+of+Zelda+-+The+Wind+Waker+HD](https://github.com/NotPlami/downloader/tree/main/downloads/The+Legend+of+Zelda+-+The+Wind+Waker+HD)
 
-5. [aHR0cHM6Ly9hcHAua2l0LmNvbS9mb3Jtcy9jb25maXJtP2tleT03NTBkYTQ3YzBhYTcyYzNhMjRjMDRlZTY3MDg5ZmZlM2EyYTUxODQwJnNpZD0xMTI1ODA5OTgxOQ==](https://github.com/NotPlami/downloader/tree/main/downloads/aHR0cHM6Ly9hcHAua2l0LmNvbS9mb3Jtcy9jb25maXJtP2tleT03NTBkYTQ3YzBhYTcyYzNhMjRjMDRlZTY3MDg5ZmZlM2EyYTUxODQwJnNpZD0xMTI1ODA5OTgxOQ==)
+5. [_cloud_9156](https://github.com/NotPlami/downloader/tree/main/downloads/_cloud_9156)
 
-6. [download](https://github.com/NotPlami/downloader/tree/main/downloads/download)
+6. [aHR0cHM6Ly9hcHAua2l0LmNvbS9mb3Jtcy9jb25maXJtP2tleT03NTBkYTQ3YzBhYTcyYzNhMjRjMDRlZTY3MDg5ZmZlM2EyYTUxODQwJnNpZD0xMTI1ODA5OTgxOQ==](https://github.com/NotPlami/downloader/tree/main/downloads/aHR0cHM6Ly9hcHAua2l0LmNvbS9mb3Jtcy9jb25maXJtP2tleT03NTBkYTQ3YzBhYTcyYzNhMjRjMDRlZTY3MDg5ZmZlM2EyYTUxODQwJnNpZD0xMTI1ODA5OTgxOQ==)
+
+7. [download](https://github.com/NotPlami/downloader/tree/main/downloads/download)
 
 ---
